@@ -1,0 +1,154 @@
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files (x86)\Java\jdk1.8.0_181\jre
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_181-b13
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dtomee.remote.support=true
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dopenejb.system.apps=false
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\tep\address-manager\application\target\apache-tomee\conf\logging.properties
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -javaagent:C:\Users\tep\address-manager\application\target\apache-tomee\lib\openejb-javaagent.jar
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\tep\address-manager\application\target\apache-tomee\temp
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Users\tep\address-manager\application\target\apache-tomee\endorsed
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.ext.dirs=C:\Users\tep\address-manager\application\target\apache-tomee\lib
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+Dec 17, 2018 7:44:16 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -ea
+Dec 17, 2018 7:44:16 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.8.0_181\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Program Files\Cloud Foundry;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\apache-maven-3.6.0\bin;C:\Program Files (x86)\RSA SecurID Token Common\;C:\Users\tep\AppData\Roaming\npm;C:\Users\tep\AppData\Local\Microsoft\WindowsApps;C:\JDK8;C:\JDK8\bin;C:\Program Files (x86)\Java\jdk1.8.0_181\bin;;.
+Dec 17, 2018 7:44:18 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 17, 2018 7:44:18 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 17, 2018 7:44:18 AM org.apache.openejb.util.OptionsLog info
+INFO: Using 'tomee.remote.support=true'
+Dec 17, 2018 7:44:18 AM org.apache.openejb.util.OptionsLog info
+INFO: Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: ********************************************************************************
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: OpenEJB http://tomee.apache.org/
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: Startup: Mon Dec 17 07:44:19 CET 2018
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: Copyright 1999-2015 (C) Apache OpenEJB/TomEE Project, All Rights Reserved.
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: Version: 4.7.5
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: Build date: 20170927
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: Build time: 12:02
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: ********************************************************************************
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: openejb.home = C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:19 AM org.apache.openejb.OpenEJB$Instance <init>
+INFO: openejb.base = C:\Users\tep\address-manager\application\target\apache-tomee
+Dec 17, 2018 7:44:19 AM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFO: Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@e807c6
+Dec 17, 2018 7:44:19 AM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFO: Succeeded in installing singleton service
+Dec 17, 2018 7:44:19 AM org.apache.openejb.config.ConfigurationFactory init
+INFO: openejb configuration file is 'C:\Users\tep\address-manager\application\target\apache-tomee\conf\tomee.xml'
+Dec 17, 2018 7:44:19 AM org.apache.openejb.config.ConfigurationFactory configureService
+INFO: Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+Dec 17, 2018 7:44:19 AM org.apache.openejb.config.ConfigurationFactory configureService
+INFO: Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+Dec 17, 2018 7:44:19 AM org.apache.openejb.util.OptionsLog info
+INFO: Using 'openejb.system.apps=false'
+Dec 17, 2018 7:44:19 AM org.apache.openejb.util.OptionsLog info
+INFO: Using 'openejb.deployments.classpath=false'
+Dec 17, 2018 7:44:19 AM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFO: Creating TransactionManager(id=Default Transaction Manager)
+Dec 17, 2018 7:44:19 AM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFO: Creating SecurityService(id=Tomcat Security Service)
+Dec 17, 2018 7:44:19 AM org.apache.openejb.server.ServiceManager initServer
+INFO: Creating ServerService(id=cxf-rs)
+Dec 17, 2018 7:44:19 AM org.apache.openejb.server.SimpleServiceManager start
+INFO:   ** Bound Services **
+Dec 17, 2018 7:44:19 AM org.apache.openejb.server.SimpleServiceManager printRow
+INFO:   NAME                 IP              PORT  
+Dec 17, 2018 7:44:19 AM org.apache.openejb.server.SimpleServiceManager start
+INFO: -------
+Dec 17, 2018 7:44:19 AM org.apache.openejb.server.SimpleServiceManager start
+INFO: Ready!
+Dec 17, 2018 7:44:19 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3725 ms
+Dec 17, 2018 7:44:19 AM org.apache.tomee.catalina.OpenEJBNamingContextListener bindResource
+INFO: Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+Dec 17, 2018 7:44:19 AM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFO: Creating Resource(id=UserDatabase)
+Dec 17, 2018 7:44:19 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 17, 2018 7:44:19 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+Dec 17, 2018 7:44:20 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [954] milliseconds.
+Dec 17, 2018 7:44:20 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 17, 2018 7:44:20 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 17, 2018 7:44:20 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1251 ms
+Dec 17, 2018 7:44:53 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:136)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Dec 17, 2018 7:44:53 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:136)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
